@@ -23,3 +23,8 @@
     
 ####*Hobbies:*
     Robotics, Arduino & STM32, Quadcopters, Shooting photo & video, 3D printing
+    
+####*Contacts:*
+* shpax1@gmail.com
+* Ukraine, Kyiv, Peremohy Ave 21
+* +380934555103
