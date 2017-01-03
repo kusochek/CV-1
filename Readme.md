@@ -10,7 +10,7 @@
 * most of the time was developing single-page applications with React/Flux and angular 1.5, like:
 * file manager, custom CMS, CRM system, SAAS solutions for fast we prototyping
 
-####*Work wishes:*
+####*Wishes:*
 * informal environment
 * self-improvement possibilities
 * opportunities to suggest, discuss and work on custom projects & ideas
