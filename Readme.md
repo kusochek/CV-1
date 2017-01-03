@@ -18,3 +18,6 @@
 
 ####*Skills heap:*
     react, webpack, gulp, babel, OOP, SCSS/SASS, LESS, PHP5, PHP7.0 features, Ubuntu, bash, MySQL, Nginx, require.js, hateJQuery, Angular 1.5, ES6, BEM, Flux, git, node.js, JSON, websockets, npm, REST, MVC, MVVM, MDL, Bootstrap, MDL, Google APIs, SCRUM, Telegram APIs, Android, Magento 2, WP
+    
+####*Hobbies:*
+    Robotics, Arduino & STM32, Quadcopters, Shooting photo & video, 3D printing
