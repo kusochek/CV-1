@@ -1,30 +1,26 @@
 # Piven Maxim
 
-* 2+ years of web-related development experience
-* Prefer using OS/Database/Web server features instead of writing backend code whenever possible.
-* Good with javascript, awa most wide-spread frontend frameworks
+* 2.5+ years of web-related development experience
 * Trying to follow SOLID principles
 
 #### Experience:
-* Had a chance to participate in some city-scaled startups
-* most of the time was developing single-page applications with React/Flux and angular 1.5, like:
-* file manager, custom CMS, CRM system, SAAS solutions for fast we prototyping
+* Startup experience
+* SPA with angular 1.5.*, React/Flux, React/Redux: file manager, custom CMS, CRM system, SAAS solutions for fast website prototyping
+* NodeJS backend using REST & WebSocket
+* Scaling with Docker
+* CI/CD using TeamCity
 
 #### Wishes:
+* trending projects: IoT & 3D Printing
 * informal environment
 * self-improvement possibilities
 * opportunities to suggest, discuss and work on custom projects & ideas
 * flexible schedule
 
-#### Skills heap:
-    react, webpack, gulp, babel, OOP, SCSS/SASS, LESS, PHP5, PHP7.0 features, Ubuntu, bash, MySQL, Nginx, require.js, 
-    hateJQuery, Angular 1.5, ES6, BEM, Flux, git, node.js, JSON, websockets, npm, REST, MVC, MVVM, MDL, Bootstrap, 
-    MDL, Google APIs, SCRUM, Telegram APIs, Android, Magento 2, WP
-    
 #### Hobbies:
     Robotics, Arduino & STM32, Quadcopters, Shooting photo & video, 3D printing
     
 #### Contacts:
-* shpax1@gmail.com
+* Email: shpax1@gmail.com
+* Phone (Telegram, Facebook): +380934555103
 * Ukraine, Kyiv, Peremohy Ave 21
-* +380934555103
