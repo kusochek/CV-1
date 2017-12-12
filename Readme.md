@@ -1,5 +1,11 @@
 # Piven Maxim
 
+* https://linkedin.com/in/shpax
+* shpax1@gmail.com
+* Mobile: +380934555103 (Telegram, Facebook)
+* Ukraine, Kyiv
+
+## Summary
 * 2.5+ years of web-related development experience
 * Highload applications architecture experience
 * Fluent with RabbitMQ, Redis, ok with MySql
@@ -27,18 +33,12 @@ Worked on multiple Magento-based Ecommerce platforms, mostly small frontend appl
 * Back-End developer
 Worked on online document editor, mostly back-end. During this time, we've refactored major part due to highload. So I had a lot of experience with architecture && scaling planning, using Consul, Docker && RabbitMQ. Took some DevOps responsibilities later on.
 
-### Expectations:
+## Expectations:
 * trending projects: IoT & 3D Printing
 * informal environment
 * self-improvement possibilities
 * opportunities to suggest, discuss and work on custom projects & ideas
 * flexible schedule
 
-### Hobbies:
+## Hobbies:
     Robotics, Arduino & STM32, Quadcopters, Shooting photo & video, 3D printing
-    
-#### Contacts:
-* https://linkedin.com/in/shpax
-* Email: shpax1@gmail.com
-* Phone (Telegram, Facebook): +380934555103
-* Ukraine, Kyiv, Peremohy Ave 21
