@@ -2,12 +2,12 @@
 
 * 2.5+ years of web-related development experience
 * Trying to follow SOLID principles
-
-#### Experience:
 * Startup experience
-* SPA with angular 1.5.*, React/Flux, React/Redux: file manager, custom CMS, CRM system, SAAS solutions for fast website prototyping
-* NodeJS backend using REST & WebSocket
+* Highload applications architecture experience
+* Fluent with RabbitMQ, Redis, ok with MySql
+* Rich WebSocket experience
 * Scaling with Docker
+* SPA with angular 1.5.*, React/Flux, React/Redux: file manager, custom CMS, CRM system, SaaS solutions
 * CI/CD using TeamCity
 
 #### Wishes:
