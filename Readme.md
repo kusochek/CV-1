@@ -42,7 +42,7 @@ Worked on multiple Magento-based Ecommerce platforms, mostly small frontend appl
 * Feb. 2015 - Aug. 2016
 * http://www.ovobox.com/
 
-Worked on the company's main porduct - CRM && Web development platform. By that time product consisted of Web Editor, CRM/Database with REST API and a File manager, all of them were Angular 1.* SPA-s. Participated in client's projects using React\Flux
+Worked on the company's main product - CRM && Web development platform. By that time product consisted of Web Editor, CRM/Database with REST API and a File manager, all of them were Angular 1.* SPA-s. Participated in client's projects using React\Flux
 
 
 ### Contacts
