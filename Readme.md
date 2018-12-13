@@ -1,12 +1,12 @@
 # Piven Maxim
 
 ### Summary
-* 3.5+ years of web-related development experience
-* 2+ years of Node.js
+* 4+ years of web-related development experience
+* 2.5+ years of Node.js
 
 #### Back-end skills
 * Node.js: WebSockets, Express, Koa
-* RabbitMQ, Redis, MySQL, MongoDb
+* RabbitMQ, Redis, MySQL, MongoDb, ElasticSearch
 * Scaling with Docker
 * Highload applications architecture
 * AWS services (EC2, ECS, S3)
@@ -28,7 +28,7 @@
 * Feb. 2017 - now on
 * https://pdffiller.com
 
-Worked on unified Node.js platform for company's online editors. Lots of highload tasks & some DevOps jobs.
+Worked on unified Node.js platform for company's online editors. Lots of highload tasks & some DevOps jobs. Designed and implemented realtime editor backend architecture to support new features, A\B tests, load balancing. Made it possible to ship and setup editor to multiple teams for several company's products. Designed powerful statistics collection for analysis and A/B testing using ElasticSearch
 
 ##### Youwe
 * Front-End developer
