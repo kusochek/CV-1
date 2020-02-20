@@ -6,11 +6,11 @@
 
 #### Back-end skills
 * Node.js: WebSockets, Express, Koa
-* RabbitMQ, Redis, MySQL, MongoDb, ElasticSearch
-* Scaling with Docker
+* RabbitMQ, Redis, MySQL, ElasticSearch
+* Scaling with Docker + ECS
 * Highload applications architecture
 * AWS services (EC2, ECS, S3)
-* CI/CD using TeamCity
+* CD using TeamCity
 
 #### Front-end skills
 * Angular 1.5, React/Redux
@@ -24,7 +24,7 @@
 ### Experience
 
 ##### PDFfiller
-* Back-End developer, Team Lead
+* Back-End developer -> Team/Tech Lead
 * Feb. 2017 - now on
 * https://pdffiller.com
 
